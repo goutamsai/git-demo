@@ -7,3 +7,5 @@ Ruby
 Android
 Cloud Computing
 DevOps
+Web Development
+Networking
